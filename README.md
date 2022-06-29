@@ -31,8 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Este é um projeto desenvolvido a partir de um desafio da trilha discover da rocketseat utilizando meus próprios conhecimentos e novas tecnologias tais como vite e [tailwindscss](https://tailwindcss.com/), com layout responsivo.
 <p align="center">
   <img align="center" alt="desktop" src="https://github.com/samsepi0ldev/society-coffee/blob/main/.github/desktop.png" />
-  <img align="center" height="50%" style="height: 50%;" alt="mobile" src="https://github.com/samsepi0ldev/society-coffee/blob/main/.github/mobile.png" />
-  <img align="center" height="50%" style="height: 50%;" alt="mobile-menu" src="https://github.com/samsepi0ldev/society-coffee/blob/main/.github/menu_mobile.png" />
+  <img align="center" width="30%" style="width: 30%;" alt="mobile" src="https://github.com/samsepi0ldev/society-coffee/blob/main/.github/mobile.png" />
+  <img align="center" width="30%" style="width: 30%;" alt="mobile-menu" src="https://github.com/samsepi0ldev/society-coffee/blob/main/.github/menu_mobile.png" />
 </p>
 
 ## 🔖 Layout
